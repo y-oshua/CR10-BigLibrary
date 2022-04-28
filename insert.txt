@@ -1,0 +1,57 @@
+INSERT INTO `media`(`title`, `image`, `isbn`, `type`, `description`, `author_fname`, `author_lname`, `publisher`, `publisher_city`, `publish_date`, `status`) 
+VALUES ("Love in the Time of Cholera","love.jpg","9780140119909","book","[Published to worldwide critical acclaim, with more than one million copies already in print, this is the lush, wondrous story of an unrequited love that survives half a century and more than 600 distractions.","Gabriel Garcia","Marquez","Penguin Books","London","1989","0");
+
+
+INSERT INTO `media`(`title`, `image`, `isbn`, `type`, `description`, `author_fname`, `author_lname`, `publisher`, `publisher_city`, `publish_date`, `status`) 
+VALUES ("The Wonderful Wizard of Oz","wizard.jpg","9780486291161","book","Since it was first published in 1900, The Wonderful Wizard of Oz has enchanted readers of all ages with its lovable characters, gentle humor, and quiet wisdom. This complete and unabridged edition of L. Frank Baum's beloved classic invites a new generation of readers to travel down that Yellow Brick Road with the delightful little girl from Kansas and her unusual friends.","L. Frank","Baum","Dover Publications","New York","1996","1");
+
+
+
+INSERT INTO `media`(`title`, `image`, `isbn`, `type`, `description`, `author_fname`, `author_lname`, `publisher`, `publisher_city`, `publish_date`, `status`) 
+VALUES ("Attack on Titan: Before the Fall 1","titan.jpg","9781612629100","manga","A prequel series to the number one bestseller in Japan. Humanity has learned to live in complacency behind its high walls, protected from the giant Titans. But when a Titan-worshipping cult opens one of the gates, a Titan wreaks havoc, consuming the cultists. After the rampage is over, two young Survey Corps members are shocked to discover a pregnant woman's partially digested corpse - with her baby still alive inside it! What will the fate of this 'child of the Titans' be? And how will humanity learn to cope with the Titan threat?","Ryo","Suzukaze","Kodansha Comics","Tokyo","2014","1");
+
+
+INSERT INTO `media`(`title`, `image`, `isbn`, `type`, `description`, `author_fname`, `author_lname`, `publisher`, `publisher_city`, `publish_date`, `status`) 
+VALUES ("Oil!","oil.jpg","9780143112266","book","Penguin Books is proud to now be the sole publisher of Oil!, the classic 1927 novel by Upton Sinclair. After writing The Jungle, his scathing indictment of the meatpacking industry, Sinclair turned his sights on the early days of the California oil industry in a highly entertaining story featuring a cavalcade of characters including senators, oil magnets, Hollywood film starlets, and a crusading evangelist.","Upton","Sinclair","Penguin Books","London","2007","0");
+
+
+
+INSERT INTO `media`(`title`, `image`, `isbn`, `type`, `description`, `author_fname`, `author_lname`, `publisher`, `publisher_city`, `publish_date`, `status`) 
+VALUES ("Brief Answers to the Big Questions","hawking.jpg","9781984819192","book","Will humanity survive? Should we colonize space? Does God exist? These are just a few of the questions Hawking addresses in this wide-ranging, passionately argued final book from one of the greatest minds in history.","Stephen","Hawking","Bantam","London","2018","1");
+
+
+
+INSERT INTO `media`(`title`, `image`, `isbn`, `type`, `description`, `author_fname`, `author_lname`, `publisher`, `publisher_city`, `publish_date`, `status`) 
+VALUES ("Alice's Adventures In Wonderland","alice.jpg","9780706413120","book","Source of legend and lyric, reference and conjecture, Alice's Adventures in Wonderland is for most children pure pleasure in prose. While adults try to decipher Lewis Carroll's putative use of complex mathematical codes in the text, or debate his alleged use of opium, young readers simply dive with Alice through the rabbit hole, pursuing 'The dream-child moving through a land / Of wonders wild and new.' There they encounter the White Rabbit, the Queen of Hearts, the Mock Turtle, and the Mad Hatter, among a multitude of other characters--extinct, fantastical, and commonplace creatures. Alice journeys through this Wonderland, trying to fathom the meaning of her strange experiences. But they turn out to be 'curiouser and curiouser,' seemingly without moral or sense.","Lewis","Carroll","Littlehampton Book Services Ltd","Worthing","1980","1");
+
+
+
+INSERT INTO `media`(`title`, `image`, `isbn`, `type`, `description`, `author_fname`, `author_lname`, `publisher`, `publisher_city`, `publish_date`, `status`) 
+VALUES ("There Will Be Blood","blood.jpg","isbn","dvd","A sprawling epic about family, faith, power and oil. The story chronicles the life of Daniel Plainview, who transforms himself from a down-and-out silver miner into a self-made oil tycoon.","authorfname","authorlname","publisher","publisheradd","2008","0");
+
+
+
+INSERT INTO `media`(`title`, `image`, `isbn`, `type`, `description`, `author_fname`, `author_lname`, `publisher`, `publisher_city`, `publish_date`, `status`) 
+VALUES ("2001: A Space Odyssey","space.png","isbn","dvd","Stanley Kubrick redefined the limits of filmmaking in his classic science fiction masterpiece, a contemplation on the nature of humanity, 2001: A Space Odyssey. Stone Age Earth: In the presence of a mysterious black obelisk, pre-humans discover the use of tools--and weapons--violently taking first steps toward intelligence. 1999: On Earth's moon astronauts uncover another mysterious black obelisk. 2001: Between Earth and Jupiter, the spacecraft's intelligent computer makes a mistake that kills most of the human crew--then continues to kill to hide its error. Beyond Time: The sole survivor of the journey to Jupiter ascends to the next level of humanity.","authorfname","authorlname","publisher","publisheradd","1968","1");
+
+
+INSERT INTO `media`(`title`, `image`, `isbn`, `type`, `description`, `author_fname`, `author_lname`, `publisher`, `publisher_city`, `publish_date`, `status`) 
+VALUES ("The Big Lebowski","big.jpg","isbn","dvd","From the Academy Award-winning Coen brothers, The Big Lebowski is a hilariously quirky comedy about bowling, a severed toe, White Russians and a guy named...The Dude. Jeff 'The Dude' Lebowski doesn"t want any drama in his life...heck, he can't even be bothered with a job. But, he must embark on a quest with his bowling buddies after his rug is destroyed in a twisted case of mistaken identity. Starring Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi, Philip Seymour Hoffman and John Turturro, experience the cultural phenomenon of The Dude in the '#1 cult film of all time!' (The Boston Globe).","authorfname","authorlname","publisher","publisheradd","1998","1");
+
+
+
+INSERT INTO `media`(`title`, `image`, `isbn`, `type`, `description`, `author_fname`, `author_lname`, `publisher`, `publisher_city`, `publish_date`, `status`) 
+VALUES ("Raising Arizona","arizona.jpg","isbn","dvd","Recidivist hold-up man H.I. McDonnough and police woman Edwina marry, only to discover they are unable to conceive a child. Desperate for a baby, the pair decide to kidnap one of the quintuplets of furniture tycoon Nathan Arizona. The McDonnoughs try to keep their crime secret, while friends, co-workers and a feral bounty hunter look to use Nathan Jr. for their own purposes.","authorfname","authorlname","publisher","publisheradd","1987","1");
+
+
+
+INSERT INTO `media`(`title`, `image`, `isbn`, `type`, `description`, `author_fname`, `author_lname`, `publisher`, `publisher_city`, `publish_date`, `status`) 
+VALUES ("Blade Runner","blade.png","isbn","dvd","21st-century detective Rick Deckard brings his masculine-yet-vulnerable presence to this stylish noir thriller. In a future of high-tech possibility soured by urban and social decay, Deckard hunts for fugitive, murderous replicants - and is drawn to a mystery woman whose secrets may undermine his soul.","authorfname","authorlname","publisher","publisheradd","1982","0");
+
+
+
+INSERT INTO `media`(`title`, `image`, `isbn`, `type`, `description`, `author_fname`, `author_lname`, `publisher`, `publisher_city`, `publish_date`, `status`) 
+VALUES ("Ran","ran.jpg","isbn","dvd","Akira Kurosawa's brilliantly conceived re-telling of Shakespeare's King Lear magically mixes Japanese history, Shakespeare's plot and Kurosawa's own feelings about loyalty in the epic masterpiece, RAN. Set in 16th century Japan, an aging ruler, Lord Hidetora (Tatsuya Nakadai), announces his intention to divide his land equally among his three sons. Hidetora's decision to step down unleashes a power struggle between the three heirs when he falls prey to the false flattery bestowed upon him by the two older sons and banishes the youngest for speaking the truth. That ruthless betrayal ultimately drives Hidetora insane, destroying his entire family and kingdom. Deep human emotion and outstanding acting combine to create one of the most acclaimed foreign films of all time.","authorfname","authorlname","publisher","publisheradd","1985","1");
+
+
+
