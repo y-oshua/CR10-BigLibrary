@@ -1,11 +1,8 @@
 # BigLibrary
-Big Library - a site to manage media items in at a library.
 
-This project consists of a landing page and a reviews page. Plain HTML, CSS, and JS were used.
+The following instructions assume you have XAMPP and Symfony installed. To view this project please clone this repo into the htdocs folder, import the database from the sql folder into MySQL. Open a command line interface within the project and run symfony server:start. You should be able to access the site at: localhost/BigLibrary-master/index.php
 
-To view the pages simply clone this repo then open index.html / reviews.html into your browser.
-
-This project was done as a solution to a end of the week project during my fullstack course at code factory.
+This project was done as a solution to an end of the week project during my fullstack course at code factory.
 
 Please view the assignment.pdf to view the expected results.
 
